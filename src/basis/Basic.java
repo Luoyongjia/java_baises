@@ -1,4 +1,4 @@
-package src.method;
+package src.basis;
 
 public class Basic {
     public static void main(String[] args) {
